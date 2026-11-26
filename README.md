@@ -24,31 +24,48 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 The command sudo setoolkit in the prompt gives menu with set prompt:
 ## OUTPUT
 
+<img width="490" height="687" alt="image" src="https://github.com/user-attachments/assets/b4016166-293f-4cf5-96c7-90e35ec20df7" />
+
 
 
 The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
 ## OUTPUT
 
+<img width="459" height="281" alt="image" src="https://github.com/user-attachments/assets/aa90678a-ade3-46dc-b0b3-9b7f037f1778" />
+
+
 
 
 It displays the following menu and select 2 for Website Attack Vectors:
+
 ## OUTPUT
+<img width="692" height="435" alt="image" src="https://github.com/user-attachments/assets/fb4bef33-337c-41b0-8dba-e5d2454c419e" />
+
+
 
 
 
 The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
 ## OUTPUT
+<img width="304" height="134" alt="image" src="https://github.com/user-attachments/assets/161e407f-9833-4622-be4c-cffc8b243084" />
+
+The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
+##OUTPUT:
+<img width="556" height="187" alt="image" src="https://github.com/user-attachments/assets/253b5731-80e0-4add-9eb8-56bbf032b218" />
+
 
 
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 ## OUTPUT
 
+<img width="448" height="230" alt="image" src="https://github.com/user-attachments/assets/cddaf9b1-3fbc-43c6-a6ec-087311729440" />
 
 
 
 It shows the following screen in which the option Google can be selected:
 ## OUTPUT
+<img width="322" height="219" alt="image" src="https://github.com/user-attachments/assets/1371875c-5086-4dc9-8fbe-5750970a9750" />
 
 
 
@@ -56,21 +73,26 @@ It shows the following screen in which the option Google can be selected:
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
 ## OUTPUT
+<img width="664" height="127" alt="image" src="https://github.com/user-attachments/assets/9acd98cd-93a1-4fa2-a4d6-81a74d78c1b1" />
 
 
 
 
 In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address), the fake Google page is displayed. The victim can enter the username and password
 ## OUTPUT
+<img width="388" height="347" alt="image" src="https://github.com/user-attachments/assets/1b43d29e-25d8-4347-b692-7ea7c84c7ff6" />
+
 
 
 SET logs the information regarding the Google credentials:
 ## OUTPUT
+<img width="650" height="132" alt="image" src="https://github.com/user-attachments/assets/b55ec734-7ac7-427b-a8e5-22147b0ab609" />
 
 
 
 SET logs the information in the xml file under /root/.set directory:
 ## OUTPUT
+<img width="1701" height="305" alt="image" src="https://github.com/user-attachments/assets/9b884752-cab4-4aee-b427-b8ddb7d46b6a" />
 
 
 
